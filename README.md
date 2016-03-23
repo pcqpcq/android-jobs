@@ -128,7 +128,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 ####Fu Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-待定 |  |  |  |
+天棣互联 | [Android开发](./福州--JD/天棣互联 Android.md) | 有技术追求的伙伴 | [tandyinfohr@gmail.com](mailto:tandyinfohr@gmail.com "有效期至 2015-12-31")
 
 ####Xi An
 公司  | JD 地址 | 一句话诱惑 | 联系人
